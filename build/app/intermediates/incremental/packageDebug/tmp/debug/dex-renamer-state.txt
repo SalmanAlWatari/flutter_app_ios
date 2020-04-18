@@ -1,0 +1,4 @@
+#Sat Apr 18 12:57:28 EDT 2020
+base.0=C\:\\Users\\salman\\Desktop\\KotlinTutorials\\omg-android-1\\flutter_app_ios\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
